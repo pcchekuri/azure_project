@@ -1,0 +1,9 @@
+{
+	"name": "azureproject-df07",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9f6d6c4-c272-4ea9-aa11-84201a39caaf",
+		"tenantId": "b2696306-fe76-4b53-be0d-04c22df68d10"
+	}
+}
